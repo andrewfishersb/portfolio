@@ -3,6 +3,7 @@ img{
   padding-bottom: 10px;
   padding-top: 15px;
 
+
 }
 .imgweb img{
   max-width: 100%;
@@ -42,7 +43,7 @@ a{
   border-width: double;
   text-align: center;
   padding-bottom: 40px;
-
+  border-radius: 50px;
 
 }
 .hobbies{
@@ -51,6 +52,7 @@ a{
   border-width: double;
   text-align: center;
   padding-bottom: 15px;
+  border-radius: 50px;
 }
 
 body{
@@ -84,6 +86,7 @@ h4{
   max-width: 300px;
   float: left;
   margin-right: 50px;
+  border-radius: 125px;
 }
 .bar{
   background-color: #006699;
@@ -91,4 +94,9 @@ h4{
 .comingsoon{
   text-align: center;
   font-size: 200px;
+}
+.andrew{
+  text-shadow: 2px 2px black;
+  font-size: 30px;
+  text-decoration: underline;
 }
