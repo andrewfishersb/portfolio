@@ -3,6 +3,17 @@ img{
   padding-bottom: 10px;
   padding-top: 15px;
 }
+.imgweb img{
+  max-width: 100%;
+  padding-top: 40px;
+
+}
+.imgweb{
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+
+}
 ul{
   list-style: none;
 }
@@ -14,7 +25,7 @@ ol{
 .row li{
   color:  #d9d9d9
 }
-.r2 a{
+.lightlink{
   color:#a6a6a6;
 }
 a{
@@ -43,10 +54,19 @@ a{
 
 body{
   background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB289855825%E2%80%AC-%E2%80%AB%E2%80%AC.jpg");
+  color:#d9d9d9;
 }
 h2{
   padding-top: 50px;
 }
+h4{
+  color: black;
+  text-decoration: underline;
+}
+#vacation{
+  padding-top: 55px;
+}
+
 
 
 
