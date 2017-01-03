@@ -6,17 +6,22 @@
 
 ## Description
 
-_This is a webpage both about me and the websites I have created. Please go easy on me, I've only been designing for one week!_
+Week one final independent project at Epicodus. This site will tell the user about myself. It will also display pictures of other sites I made this week
 
 ## Setup/Installation Requirements
+* Clone repo from GitHub
+* Open Index.html in your browser.
 
-  _All that is needed to run the code is your own text editor_
-  _May need to download Bootstrap so all styling works properly_
-  _All that is left is to clone the page and then have fun editing it!_
-  _Once on the portfolio page, to see my other sites clicking the pictures will link you to them_
+## Technology Used
+* HTML
+* CSS
+* Bootstrap
 
-##GitHub Pages Link
-_andrewfishersb.github.io/portfolio_
+## GitHub Pages Link
+andrewfishersb.github.io/portfolio
+
+## Further exploration
+* Add other projects to the coming soon pages
 
 ## License
 
